@@ -12,3 +12,5 @@ Applications
 NLP
 -----
 * [Kospacing: R package for nlp space preprocessing](https://github.com/haven-jeon/KoSpacing/)
+
+    + spacing Korean automation based on Deep Learning architecture
