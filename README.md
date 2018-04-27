@@ -7,7 +7,7 @@ Applications
 * [DeepWriting: Making Digital Ink Editable via Deep Generative Modeling](https://ait.ethz.ch/projects/2018/deepwriting/)
     
     + If anyone can make their handwriting to computer font, what happens to font desingers?
-* 
+* [시나리오 주면 애니메이션 그려주는 인공지능 Craft](http://smartaedi.tistory.com/262)
 
 NLP
 -----
