@@ -13,7 +13,7 @@ Applications
     + [English](https://thenextweb.com/artificial-intelligence/2018/04/11/researchers-trained-an-ai-to-create-flintstones-cartoons/)
     + [Arxiv paper: Imagine This! Scripts to Compositions to Videos](https://arxiv.org/pdf/1804.03608.pdf)
     
-    [![Youtube](http://img.youtube.com/vi/688Vv86n0z8/0.jpg)](http://www.youtube.com/watch?v=688Vv86n0z8)
+    ![Youtube](http://img.youtube.com/vi/688Vv86n0z8/0.jpg)](http://www.youtube.com/watch?v=688Vv86n0z8)
 
 NLP
 -----
