@@ -21,3 +21,5 @@ NLP
 * [Kospacing: R package for nlp space preprocessing](https://github.com/haven-jeon/KoSpacing/)
 
     + spacing Korean automation based on Deep Learning architecture
+
+* [Word embeddings: exploration, explanation, and exploitation (with code in Python)](https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795)
