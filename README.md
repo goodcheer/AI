@@ -35,6 +35,10 @@ NLP
 * [char-RNN](https://github.com/karpathy/char-rnn)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/docs/2015-pyconkr/#1)
 
+Machine Learning
+---------------------------
+* [모델성능평가](https://datascienceschool.net/view-notebook/731e0d2ef52c41c686ba53dcaf346f32/)
+
 Feature Selection / Extraction
 -------------------------------
 * [PCA](http://yamalab.tistory.com/32)
