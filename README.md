@@ -13,6 +13,10 @@ Applications
     
     [![Youtube](http://img.youtube.com/vi/688Vv86n0z8/0.jpg)](http://www.youtube.com/watch?v=688Vv86n0z8)
     
+Deep Learning
+----------------
+* [Best practices for Deep Learning](http://forums.fast.ai/t/30-best-practices/12344/2)
+
 
 NLP
 -----
